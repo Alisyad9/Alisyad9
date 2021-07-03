@@ -2,7 +2,7 @@
 
 I'm Mohamed Ali Siyad from London and is currently starting my programming journy with @founderscoders, Cohort FAC22.
 
-https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mohamed_Siyad1)  
 <!--
 **Alisyad9/Alisyad9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
