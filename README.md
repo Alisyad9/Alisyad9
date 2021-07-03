@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Mohamed Ali Siyad from London and is currently starting my programming journy with @founderscoders, Cohort FAC22.
+
+
 <!--
 **Alisyad9/Alisyad9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
