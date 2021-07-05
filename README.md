@@ -1,4 +1,4 @@
-### Hi there 👋  ![welcome](https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif)
+### Hi there 👋  ![welcome](https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif)<img src="https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif" width="100"> 
 
 
 
