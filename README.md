@@ -1,4 +1,5 @@
 ### Hi there 👋
+![welcome](https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif)
 
 I'm Mohamed Ali Siyad from London and is currently starting my programming journy with @founderscoders, Cohort FAC22.
 
