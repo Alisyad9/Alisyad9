@@ -1,9 +1,27 @@
-### Hi there 👋
-![welcome](https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif)
+### Hi there 👋  ![welcome](https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif)
 
-I'm Mohamed Ali Siyad from London and is currently starting my programming journy with @founderscoders, Cohort FAC22.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' fill="#000000">](https://twitter.com/Mohamed_Siyad1)  
+
+
+
+
+<img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="100">  I'm Mohamed Ali Siyad from London and I have started my programming journy with [**@foundersandcoders**](https://github.com/foundersandcoders)(Cohort FAC22). I am developing my knowledge and skills by understanding basic `Javascript`, `HTML` and `CSS` on a daily basis!
+
+
+
+
+### Profile Links 🔗
+
+* [FreeCodeCamp]()
+* [CodeWars](https://www.codewars.com/users/mohamedAlisiyad)
+
+
+
+
+
+
+
+
 <!--
 **Alisyad9/Alisyad9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
