@@ -1,7 +1,7 @@
-### <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="100"> there 👋  <img 
+### <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="100"> there 👋  
                                                                                                       
                                                                                                       
-                               ###src="https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif" width="200"> 
+                               ### <img src="https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif" width="200"> 
 
 
 
