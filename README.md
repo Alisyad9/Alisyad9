@@ -7,6 +7,8 @@
 <!--  <img src="https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif" width="400">  -->
 <!-- https://giphy.com/gifs/digital-library-eresources-ecollection-jQVMnyuyzhR2Kiy9JJ/links -->
  <img src="https://media.giphy.com/media/jQVMnyuyzhR2Kiy9JJ/giphy.gif" width="400"> 
+  <img src="https://media.giphy.com/media/Jo6eSADesjES8rou1f/giphy.gif" width="400"> 
+ 
  
 
  I'm Mohamed Ali Siyad from London and I have started my programming journy with [**@foundersandcoders**](https://github.com/foundersandcoders)(Cohort FAC22). I am developing my knowledge and skills by understanding basic `Javascript`, `HTML` and `CSS` on a daily basis!
