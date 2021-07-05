@@ -1,11 +1,11 @@
-### Hi there 👋  ![welcome](https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif)<img src="https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif" width="100"> 
+### <img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="100"> Hi there 👋  <img src="https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif" width="100"> 
 
 
 
 
 
 
-<img src="https://media.giphy.com/media/1es0suLtBMuZcRBtvl/giphy.gif" width="100">  I'm Mohamed Ali Siyad from London and I have started my programming journy with [**@foundersandcoders**](https://github.com/foundersandcoders)(Cohort FAC22). I am developing my knowledge and skills by understanding basic `Javascript`, `HTML` and `CSS` on a daily basis!
+ I'm Mohamed Ali Siyad from London and I have started my programming journy with [**@foundersandcoders**](https://github.com/foundersandcoders)(Cohort FAC22). I am developing my knowledge and skills by understanding basic `Javascript`, `HTML` and `CSS` on a daily basis!
 
 
 
