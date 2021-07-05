@@ -7,7 +7,7 @@
 <!--  <img src="https://media.giphy.com/media/LqIlvdZAQt1DNStJGb/giphy.gif" width="400">  -->
 <!-- https://giphy.com/gifs/digital-library-eresources-ecollection-jQVMnyuyzhR2Kiy9JJ/links -->
 <!--  <img src="https://media.giphy.com/media/jQVMnyuyzhR2Kiy9JJ/giphy.gif" width="400">  -->
-  <img src="https://media.giphy.com/media/Jo6eSADesjES8rou1f/giphy.gif" width="200"> 
+  <img src="https://media.giphy.com/media/Jo6eSADesjES8rou1f/giphy.gif" width="200"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200">  
  
  
 
