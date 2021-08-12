@@ -27,6 +27,8 @@
  -->
 
 
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisyad9&theme=bear&show_icons=true)
+
 
 
 <!--
