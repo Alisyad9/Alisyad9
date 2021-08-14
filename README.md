@@ -23,8 +23,14 @@ I'm Mohamed Ali Siyad from London and I have started my programming journy with 
 | :------ | :-----------------------------: | -----------------------------------------------------------------------------------------------------------------------------------: |
 | 1       | Founders and Coders application |   [FAC 22](https://alisyad9.github.io/Mohamed-Ali-FAC21-Applicant):: [Repo](https://github.com/Alisyad9/Mohamed-Ali-FAC21-Applicant) |
 | 2       | Portfolio of pre-apprenticeship | [Pre-apprenticeship ](https://alisyad9.github.io/Pre-Apprenticeship-MS/):: [Repo](https://github.com/Alisyad9/Pre-Apprenticeship-MS) |
+| 3      | Pair programming project (1) | [Agency website](https://fac22.github.io/MohamedandAnna/):: [Repo](https://github.com/fac22/MohamedandAnna) |
+| 4       | Pair programming project (2)| [API gallary website](https://fac22.github.io/MohamedBarbara-API/):: [Repo](https://github.com/fac22/MohamedBarbara-API)|
+
+
+
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisyad9&theme=bear&show_icons=true)
+
 
 <!--
 **Alisyad9/Alisyad9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
