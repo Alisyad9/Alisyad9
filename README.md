@@ -8,6 +8,8 @@
 
 I'm Mohamed Ali Siyad from London and I have started my programming journy with [**@foundersandcoders**](https://github.com/foundersandcoders)(Cohort FAC22). I am developing my knowledge and skills by understanding basic `Javascript`, `HTML` and `CSS` on a daily basis!
 
+I work alongside fellow team members `(FAC22 👯 )` to achieve project tasks and to create a cooperative atmosphere. I regularly self-reflect and evaluate my own performance to improve my coding skills 😄.
+
 ### Profile Links 🔗
 
 - [FreeCodeCamp](https://www.freecodecamp.org/mohamed-ali-siyad)
