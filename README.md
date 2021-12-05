@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/Jo6eSADesjES8rou1f/giphy.gif" width="200"><img src="https://media.giphy.com/media/Ra7qHOOr080dY5xpW3/giphy.gif" width="200">
 
 
-I'm Mohamed Ali Siyad from London and I have started my programming journy with [**@foundersandcoders**](https://github.com/foundersandcoders)(Cohort FAC22). I am developing my knowledge and skills by understanding basic `Javascript`, `HTML` and `CSS` on a daily basis!
+I'm Mohamed Ali Siyad from London and I have started my programming journy with [**@foundersandcoders**](https://github.com/foundersandcoders)(Cohort FAC22). I am developing my knowledge and skills by understanding basic `Javascript`, `HTML` and `CSS` on a `daily` basis!
 <details>  <summary>  Founders and Coders </summary>
 
 
